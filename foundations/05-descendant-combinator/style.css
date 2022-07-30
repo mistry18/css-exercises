@@ -1,0 +1,10 @@
+.container .text {
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+* {
+    font-family: sans-serif;
+}
